@@ -15,7 +15,8 @@ cl_hud_playerclass_use_playermodel 0  // disable hud player models
 tf_passtime_player_reticles_friends 0 // disable passtime team icons
 tf_passtime_player_reticles_enemies 0 // disable passtime enemy icons
 crosshair 0                           // disable crosshair
+hidepanel specgui                     // disable spectator hud
 ```
 Copy-pasteable version:\
-```hud_combattext 0;cl_hud_killstreak_display_alpha 0;hud_saytext_time 0;hud_deathnotice_time 0;tf_use_match_hud 0;cl_hud_playerclass_use_playermodel 0;tf_passtime_player_reticles_friends 0;tf_passtime_player_reticles_enemies 0;crosshair 0```
+```hud_combattext 0;cl_hud_killstreak_display_alpha 0;hud_saytext_time 0;hud_deathnotice_time 0;tf_use_match_hud 0;cl_hud_playerclass_use_playermodel 0;tf_passtime_player_reticles_friends 0;tf_passtime_player_reticles_enemies 0;crosshair 0;hidepanel specgui```
 </div>
