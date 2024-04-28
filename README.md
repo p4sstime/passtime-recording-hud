@@ -19,5 +19,7 @@ cl_use_tournament_specgui 0           // disable spectator hud
 cl_spec_carrieditems 0                // disable carried items showing when spectating players
 ```
 Copy-pasteable version:\
-```hud_combattext 0;cl_hud_killstreak_display_alpha 0;hud_saytext_time 0;hud_deathnotice_time 0;tf_use_match_hud 0;cl_hud_playerclass_use_playermodel 0;tf_passtime_player_reticles_friends 0;tf_passtime_player_reticles_enemies 0;crosshair 0;cl_use_tournament_specgui 0```
+```hud_combattext 0;cl_hud_killstreak_display_alpha 0;hud_saytext_time 0;hud_deathnotice_time 0;tf_use_match_hud 0;cl_hud_playerclass_use_playermodel 0;tf_passtime_player_reticles_friends 0;tf_passtime_player_reticles_enemies 0;crosshair 0```
+```cl_use_tournament_specgui 0```
+Has to be split up, otherwise it won't fit in the console text box.
 </div>
