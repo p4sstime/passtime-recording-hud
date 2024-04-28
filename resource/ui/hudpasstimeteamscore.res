@@ -8,7 +8,7 @@
 		"ypos"										"25"
 		"zpos"										"0"
 		"wide"										"f0"
-		"tall"										"480"
+		"tall"										"0"
 		"visible"									"1"
 		"enabled"									"1"
 	}
