@@ -9,7 +9,7 @@
 		"zpos"										"100"
 		"wide"										"f0"
 		"tall"										"f0"
-		"visible"									"1"
+		"visible"									"0"
 		"enabled"									"1"
 	}
 	"EventTitleLabel"
