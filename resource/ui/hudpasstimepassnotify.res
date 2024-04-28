@@ -65,7 +65,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TextPassIncoming"
-			"font"									"m0refont12"
+			"font"									"m0refont16"
 			"xpos"									"-50"
 			"ypos"									"-5"
 			"zpos"									"3"
