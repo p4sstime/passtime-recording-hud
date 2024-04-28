@@ -3,6 +3,7 @@
 <div align="center">
 
 This is a modified version of m0rehud classic (pulled 4/28/24) to be a good option for recording PASS Time demos. This HUD is designed to only have HP, ammo, and the PASS INCOMING indicator. No killfeed, no damage indicators, nothing else.
+</div>
 
 Recommended commands to run this with:\
 ```
@@ -22,4 +23,3 @@ Copy-pasteable version:\
 ```hud_combattext 0;cl_hud_killstreak_display_alpha 0;hud_saytext_time 0;hud_deathnotice_time 0;tf_use_match_hud 0;cl_hud_playerclass_use_playermodel 0;tf_passtime_player_reticles_friends 0;tf_passtime_player_reticles_enemies 0;crosshair 0```
 ```cl_use_tournament_specgui 0```
 Has to be split up, otherwise it won't fit in the console text box.
-</div>
