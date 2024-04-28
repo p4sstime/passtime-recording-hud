@@ -23,6 +23,7 @@
 		"tall"										"22"
 		"visible"									"1"
 		"enabled"									"1"
+		"paintborder" 								"0"
 		"border"									"TFFatLineBorder"
 		"RoundedCorners"							"255"
 
