@@ -5,6 +5,8 @@
 This is a modified version of m0rehud classic (pulled 4/28/24) to be a good option for recording PASS Time demos. This HUD is designed to only have HP, ammo, and the PASS INCOMING indicator. No killfeed, no damage indicators, nothing else.
 </div>
 
+You need to name this folder to start with an _. It needs to load before your PASS Time reticle mods get loaded. This only overwrites the circle for your friendly ball carrier, not your actual reticle.
+
 Recommended commands to run this with:
 ```
 hud_deathnotice_time 0                // disable kill feed
