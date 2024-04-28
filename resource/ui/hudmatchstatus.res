@@ -147,7 +147,7 @@
 			"zpos"									"3"
 			"wide"									"f0"
 			"tall"									"15"
-			"visible"								"1"
+			"visible"								"0"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"textAlignment"							"center"
