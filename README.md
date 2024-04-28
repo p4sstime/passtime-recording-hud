@@ -5,7 +5,7 @@
 This is a modified version of m0rehud classic (pulled 4/28/24) to be a good option for recording PASS Time demos. This HUD is designed to only have HP, ammo, and the PASS INCOMING indicator. No killfeed, no damage indicators, nothing else.
 </div>
 
-You need to name this folder to start with an _. It needs to load before your PASS Time reticle mods get loaded. This only overwrites the circle for your friendly ball carrier, not your actual reticle.
+**You need to name this folder to start with an _.** It needs to load before your PASS Time reticle mods get loaded. This only overwrites the circle for your friendly ball carrier, not your actual reticle.
 
 Recommended commands to run this with:
 ```
@@ -23,3 +23,6 @@ cl_spec_carrieditems 0                // disable carried items showing when spec
 glow_outline_effect_enable 0          // disable glowing outline effect around dropped weapons
 ```
 These are included in the cfg of the files. Just run `exec pass_record` to run the above commands.
+
+Screenshot:
+![image](https://github.com/blakeplusplus/passtime-recording-hud/assets/76140847/d35cfa5c-4f6a-4271-8fc1-9e7124394f60)
