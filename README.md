@@ -24,5 +24,20 @@ glow_outline_effect_enable 0          // disable glowing outline effect around d
 ```
 These are included in the cfg of the files. Just run `exec pass_record` to run the above commands.
 
+### Disabling Additional HUD Elements
+
+If you want to disable health, ammo, or the PASS INCOMING indicator, here's how to do it.
+
+For health, go to `resource\ui\hudplayerhealth.res` and change line 12 `visible` to 0.
+
+For ammo, go to `scripts\hudlayout.res` and change line 23 `tall` to 0.
+
+For PASS INCOMING, go to `resource\ui\hudpasstimepassnotify.res` and change line 23 `tall` to 0.
+
+After making any changes:
+- Make sure you have Demo UI open
+- Hit the `Reload HUD` button in your main menu or type `hud_reloadscheme` in console
+- Your HUD will become extremely cluttered with random elements. This is normal. Resume your demo and the changes should take effect.
+
 Screenshot:
 ![image](https://github.com/blakeplusplus/passtime-recording-hud/assets/76140847/d35cfa5c-4f6a-4271-8fc1-9e7124394f60)
