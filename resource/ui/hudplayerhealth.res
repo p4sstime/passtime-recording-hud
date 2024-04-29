@@ -9,7 +9,7 @@
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"f0"
-		"visible"									"1"
+		"visible"									"1"      // change this to 0 to disable health
 		"enabled"									"1"
 		"HealthBonusPosAdj"							"35"
 		"HealthDeathWarning"						"0.49"

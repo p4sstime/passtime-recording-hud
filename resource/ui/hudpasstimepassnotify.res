@@ -20,7 +20,7 @@
 		"ypos"										"c-220"
 		"zpos"										"0"
 		"wide"										"200"
-		"tall"										"22"
+		"tall"										"22"        // change this to 0 to disable pass incoming text
 		"visible"									"1"
 		"enabled"									"1"
 		"paintborder" 								"0"

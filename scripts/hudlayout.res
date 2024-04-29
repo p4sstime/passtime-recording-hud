@@ -20,7 +20,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"wide"										"f0"
-		"tall"										"f0"
+		"tall"										"f0"        // change this to 0 to disable ammo
 	}
 	"HudObjectiveStatus"
 	{
