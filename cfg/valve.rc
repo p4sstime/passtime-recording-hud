@@ -1,0 +1,2 @@
+echo PASS Time Recording HUD loaded.
+echo Type "exec pass_record" to enable recording config.
