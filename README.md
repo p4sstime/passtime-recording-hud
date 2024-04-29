@@ -24,6 +24,8 @@ glow_outline_effect_enable 0          // disable glowing outline effect around d
 ```
 These are included in the cfg of the files. Just run `exec pass_record` to run the above commands.
 
+If you want to reset these commands back to defaults (except for one; cl_use_tournament_specgui is 0 by default), just run `exec pass_stop` when you're done.
+
 ### Disabling Additional HUD Elements
 
 If you want to disable health, ammo, or the PASS INCOMING indicator, here's how to do it.
