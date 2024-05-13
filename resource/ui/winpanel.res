@@ -6,7 +6,7 @@
 		"fieldName"									"TeamScoresPanel"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"f0"
+		"wide"										"0"
 		"tall"										"480"
 		"visible"									"1"
 
