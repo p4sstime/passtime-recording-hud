@@ -757,7 +757,7 @@
 	"WinPanel"
 	{
 		"fieldName"									"WinPanel"
-		"visible"									"1"
+		"visible"									"0"
 		"enabled"									"1"
 		"xpos"										"0"
 		"ypos"										"0"
