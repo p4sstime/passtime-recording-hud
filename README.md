@@ -41,5 +41,9 @@ After making any changes:
 - Hit the `Reload HUD` button in your main menu or type `hud_reloadscheme` in console
 - Your HUD will become extremely cluttered with random elements. This is normal. Resume your demo and the changes should take effect.
 
+### If You're Crashing
+
+Add a `valve.rc` file to `/cfg/`. This'll basically stop your autoexec from loading. For me, this helps with crashes.
+
 Screenshot:
 ![image](https://github.com/blakeplusplus/passtime-recording-hud/assets/76140847/d35cfa5c-4f6a-4271-8fc1-9e7124394f60)
