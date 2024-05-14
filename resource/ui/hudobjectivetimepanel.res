@@ -12,7 +12,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"labelText"									"%servertimeleft%"
+		"labelText"									""
 		"textAlignment"								"center"
 		"font"										"m0refont12"
 		"fgcolor"									"White"
