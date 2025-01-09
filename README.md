@@ -47,3 +47,7 @@ Add a `valve.rc` file to `/cfg/`. This'll basically stop your autoexec from load
 
 Screenshot:
 ![image](https://github.com/blakeplusplus/passtime-recording-hud/assets/76140847/d35cfa5c-4f6a-4271-8fc1-9e7124394f60)
+
+### Alternatives
+
+One made by Blu2th is available here named [KERMITPASSHUD](https://discord.com/channels/471798073996345344/472303455579406336/1255997570564755456). You need to be in the NA 4v4 PASS Time Discord to access this Discord message.
